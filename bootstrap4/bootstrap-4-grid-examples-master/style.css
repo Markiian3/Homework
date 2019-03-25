@@ -1,0 +1,18 @@
+
+.small {
+    background-color:#3967ca;
+    height: 100px;
+    margin: 2px;
+  
+
+}
+.large {
+    background-color:#3967ca;
+    height: 150px;
+    margin: 3px;
+}
+div {
+    padding: 0 !important;
+    
+    
+}

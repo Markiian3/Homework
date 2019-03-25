@@ -1,0 +1,17 @@
+table{
+  	margin: auto;
+	}
+td{
+  	background: rgb(15, 97, 190);
+  	color:white;
+	text-align: right;
+	vertical-align: bottom;
+	width: 80px;
+	height: 70px;
+	padding: 1px;
+	box-sizing: border-box;
+}
+.square{
+	width: 120px;
+	border-width: 5px;
+}

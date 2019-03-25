@@ -1,0 +1,42 @@
+body {
+    background-color: whitesmoke !important;
+  text-align:center !important;
+ 
+}
+.button {
+    background-color:rgb(236, 232, 232);
+    height: 50px;
+    margin: 2px;
+    
+}
+div {
+    padding: 0 !important;
+}
+.button:hover {
+    background-color:grey;
+}
+.sbutton {
+    height: 30px;
+    margin: 2px;
+}
+.sbutton:hover {
+    background-color:grey;
+}
+.tag {
+    background-color:white;
+   font-weight:bolder !important;
+}
+.row {
+    border: 0;
+}
+.bl-1 {
+    color:grey;
+}
+.bl-2 {
+    color:grey;
+}
+.text {
+ height: 200px;
+ text-align:right !important;
+ margin: 2px;
+}

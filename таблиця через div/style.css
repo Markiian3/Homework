@@ -1,0 +1,26 @@
+.d1 {
+    margin:5px;
+    width: 50px;
+    height: 53px;
+    padding:20px;
+    background-color: #055183;
+}
+.main {
+    display:flex;
+    justify-content: space-between;
+    width: 200px ;
+    flex-wrap: wrap;
+}
+.main2 {
+    display:flex;
+    padding: 5px;
+
+}
+.d2 {
+    width: 50px;
+    height:50px ;
+    margin:3px;
+    padding:5px;
+    background-color:#055183;
+}
+
